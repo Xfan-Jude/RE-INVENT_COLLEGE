@@ -1,0 +1,214 @@
+<!DOCTYPE html>
+<html> 
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<meta name="generator" content="RocketCake">
+	<title>RE-INVENT_MONTESSORI</title>
+	<style type="text/css">
+		a { color:#7F8D0F; } 
+		a:visited { color:#7F8D0F; } 
+		a:active { color:#261F09; } 
+		a:hover { color:#342A0C; } 
+		#menu_46d16b a { text-decoration: none; }
+		#menu_46d16b_pane { background-color: #AA8150; border: 1px solid #AA8150; padding-top: 10px; padding-bottom: 10px; box-shadow: 2px 2px 6px 0px rgba(8, 8, 8, 0.784314); }
+		#menu_46d16b_hr { background-color: #AA8150; height: 1px; border: none; }
+		#menu_46d16b_entry { padding-left: 10px; padding-right: 10px; padding-top: 3px; padding-bottom: 3px; }
+		#menu_46d16b_entry:hover { background-color: #323232; color: #FFFFFF !important; }
+		#menu_46d16b_entry:hover span { color:#FFFFFF !important; }
+		.menu_46d16b_mainMenuEntry { text-align: center; }
+		.menu_46d16b_mainMenuEntry:hover {	background-color:#504013; }
+		.menu_46d16b_mainMenuEntry:hover span {	color:#FFFFFF !important; }
+		#menu_46d16b .mobileEntry { display: none; } 
+		#menu_46d16b .normalEntry { display: block; } 
+		@media only screen and (max-width:370px) { 
+			#menu_46d16b .mobileEntry { display: block; } 
+			#menu_46d16b .normalEntry { display: none; } 
+		}
+		@media only screen and (max-width: 750px)
+		{
+				#container_41e58864 { width:100% !important;  }
+		}
+		@media only screen and (max-width: 650px)
+		{
+				#container_304cc980 { width:99% !important;  }
+				#container_6385801d { width:99% !important;  }
+				#container_19b17259 { width:100% !important;  }
+				#container_446233ab { width:100% !important;  }
+				#container_b8c83aa { width:100% !important;  }
+		}
+		@media only screen and (max-width: 640px)
+		{
+				#container_4c93732e * span { font-size:24pt !important;  }
+				#container_40c8368a * span { font-size:12pt !important;  }
+				#container_5a4d3624 * span { font-size:11pt !important;  }
+				#container_6d14fdfd * span { font-size:12pt !important;  }
+				#container_169edec1 * span { font-size:11pt !important;  }
+		}
+		@media only screen and (max-width: 435px)
+		{
+				#container_4c93732e * span { font-size:19pt !important;  }
+		}
+		@media only screen and (max-width: 370px)
+		{
+				#container_4c93732e * span { font-size:12pt !important;  }
+		}
+	</style>
+</head>
+<body style="background-color:#DADADA; padding:0;  margin: 0;">
+<div style="text-align:center;">
+  <div style="vertical-align: top; position:relative; display: inline-block; width:80%; min-height:466px; max-width:1200px; background:none; " id="container_41e58864">
+    <div style="margin: 10px; display: block; " id="container_41e58864_padding" >
+      <div style="text-align:left;">
+        <div style="vertical-align: top; position:relative; display: inline-block; width:100%; min-height:38px; background-color:#C0C0C0; " id="container_4c93732e">
+          <div style="margin: 10px; display: block; " id="container_4c93732e_padding" >
+            <div style="text-align:left;">
+              <span style="font-size:28pt; font-family:'Arial Black', Gadget, sans-serif; color:#656565; text-shadow: 2px 2px 4px #A1A1A1; ">RE-INVENT_COLLEGE</span>
+              </div>
+            </div>
+          </div>
+        <div id="menu_46d16b" style="vertical-align: bottom; position:relative; display: inline-block; width:100%; height:55px; text-align:left; background-color:#959595; ">
+          <div  style="position: relative; overflow: hidden; width: 100%; height: 100%;"><a href="javascript:void(0);">
+	<div id="menuentry_78bff89b"  class="menu_46d16b_mainMenuEntry mobileEntry" style="position:absolute; width:85px; height:55px; left:10px; ">
+		<div style="position:absolute; top:0px; bottom:0px; left:0px; right:0px; margin-top:auto; margin-bottom:auto; margin-left:auto; margin-right:auto; height:19px; ">
+            <span style="font-size:12pt; font-family:Arial, Helvetica, sans-serif; color:#FFFFFF; font-weight:bold;  white-space: nowrap;">Menu ☰</span>
+		</div>
+	</div>
+</a>
+<a href="javascript:void(0);">
+	<div id="menuentry_2c509ff5"  class="menu_46d16b_mainMenuEntry normalEntry" style="position:absolute; width:85px; height:55px; left:10px; ">
+		<div style="position:absolute; top:0px; bottom:0px; left:0px; right:0px; margin-top:auto; margin-bottom:auto; margin-left:auto; margin-right:auto; height:21px; ">
+            <span style="font-size:12pt; font-family:Segoe, 'Segoe UI', 'Helvetica Neue', sans-serif; color:#FFFFFF;  white-space: nowrap;">Home</span>
+		</div>
+	</div>
+</a>
+<a href="about.html" style="text-decoration:none">
+	<div id="menuentry_3ae69361"  class="menu_46d16b_mainMenuEntry normalEntry" style="position:absolute; width:85px; height:55px; left:95px; ">
+		<div style="position:absolute; top:0px; bottom:0px; left:0px; right:0px; margin-top:auto; margin-bottom:auto; margin-left:auto; margin-right:auto; height:21px; ">
+            <span style="font-size:12pt; font-family:Segoe, 'Segoe UI', 'Helvetica Neue', sans-serif; color:#FFFFFF;  white-space: nowrap;">About</span>
+		</div>
+	</div>
+</a>
+<a href="contact.html" style="text-decoration:none">
+	<div id="menuentry_789b3a9"  class="menu_46d16b_mainMenuEntry normalEntry" style="position:absolute; width:85px; height:55px; left:180px; ">
+		<div style="position:absolute; top:0px; bottom:0px; left:0px; right:0px; margin-top:auto; margin-bottom:auto; margin-left:auto; margin-right:auto; height:21px; ">
+            <span style="font-size:12pt; font-family:Segoe, 'Segoe UI', 'Helvetica Neue', sans-serif; color:#FFFFFF;  white-space: nowrap;">Contact</span>
+<link>Contact.html</link>
+		</div>
+	</div>
+</a>
+
+	<script type="text/javascript" src="rc_images/wsp_menu.js"></script>
+	<script type="text/javascript">
+		var js_menu_46d16b= new wsp_menu('menu_46d16b', 'menu_46d16b', 10, null, true);
+
+		js_menu_46d16b.createMenuForItem('menuentry_78bff89b', ["            <span style=\"font-size:14pt; font-family:'Trebuchet MS', Helvetica, sans-serif; color:#FFFFFF; font-weight:bold;  white-space: nowrap;\">Home</span> ", 'javascript:void(0);', '',
+		                                   "            <span style=\"font-size:14pt; font-family:'Trebuchet MS', Helvetica, sans-serif; color:#FFFFFF; font-weight:bold;  white-space: nowrap;\">About</span> ", 'about.html', '',
+		                                   "            <span style=\"font-size:14pt; font-family:'Trebuchet MS', Helvetica, sans-serif; color:#FFFFFF; font-weight:bold;  white-space: nowrap;\">   Who are we</span> ", 'about.html', '',
+		                                   "            <span style=\"font-size:14pt; font-family:'Trebuchet MS', Helvetica, sans-serif; color:#FFFFFF; font-weight:bold;  white-space: nowrap;\">   What do we do</span> ", 'about.html', '',
+		                                   "            <span style=\"font-size:14pt; font-family:'Trebuchet MS', Helvetica, sans-serif; color:#FFFFFF; font-weight:bold;  white-space: nowrap;\">Contact</span> ", 'contact.html', '',
+		                                   "            <span style=\"font-size:14pt; font-family:'Trebuchet MS', Helvetica, sans-serif; color:#FFFFFF; font-weight:bold;  white-space: nowrap;\">   How to find us</span> ", 'contact.html', '',
+		                                   "            <span style=\"font-size:14pt; font-family:'Trebuchet MS', Helvetica, sans-serif; color:#FFFFFF; font-weight:bold;  white-space: nowrap;\">   Get into contact</span> ", 'contact.html', '']);
+		js_menu_46d16b.createMenuForItem('menuentry_2c509ff5', []);
+		js_menu_46d16b.createMenuForItem('menuentry_3ae69361', ["            <span style=\"font-size:12pt; font-family:Arial, Helvetica, sans-serif; color:#FFFFFF;  white-space: nowrap;\">Who are we</span> ", 'about.html', '',
+		                                   "            <span style=\"font-size:12pt; font-family:Arial, Helvetica, sans-serif; color:#FFFFFF;  white-space: nowrap;\">What do we do</span> ", 'about.html', '']);
+		js_menu_46d16b.createMenuForItem('menuentry_789b3a9', ["            <span style=\"font-size:12pt; font-family:Arial, Helvetica, sans-serif; color:#FFFFFF;  white-space: nowrap;\">How to find us</span> ", 'contact.html', '',
+		                                   "            <span style=\"font-size:12pt; font-family:Arial, Helvetica, sans-serif; color:#FFFFFF;  white-space: nowrap;\">Get into contact</span> ", 'contact.html', '']);
+
+	</script>
+            </div>
+          </div>
+        <div style="vertical-align: top; position:relative; display: inline-block; margin:0px 5px 0px 0px;width:68%; min-height:391px; background-color:#FFFFFF; " id="container_304cc980">
+          <div style="margin: 20px 10px 10px 10px;display: block; " id="container_304cc980_padding" >
+            <div style="text-align:left;">
+<span style="font-size:15pt; font-family:'Trebuchet MS', Helvetica, sans-serif; color:#000000; font-weight:bold; ">Our services - best quality education<br/>for the best price.</span><span style="font-size:6pt; font-family:'Trebuchet MS', Helvetica, sans-serif; color:#000000; "><br/><br/></span><span style="font-size:12pt; font-family:'Trebuchet MS', Helvetica, sans-serif; color:#000000; ">The most reliable school.<br/>At RE_INVENT_COLLEGE we offer quality education with affordable prices which comes together with the activities e.g Chess,Coding,Drawing classes,etc.<br/><br/><br/>We give quality education early to students as soon as they register.<br/>With our 20 year long experience in the field, we know what we do.<br/>Get our direct services without hassle. We are working on it.<br/><br/></span>              </div>
+            </div>
+          </div>
+        <div style="vertical-align: top; position:relative; display: inline-block; width:30%; min-height:510px; background:none; " id="container_6385801d">
+          <div style="margin: 20px 10px 10px 10px;display: block; " id="container_6385801d_padding" >
+            <div style="text-align:left;">
+              <div style="vertical-align: top; position:relative; display: inline-block; width:100%; min-height:27px; background-color:#959595; " id="container_40c8368a">
+                <div style="margin: 10px; display: block; " id="container_40c8368a_padding" >
+                  <div style="text-align:center;">
+                    <span style="font-size:15pt; font-family:'Trebuchet MS', Helvetica, sans-serif; color:#FFFFFF; font-weight:bold; ">NEWS</span>
+                    </div>
+                  <div style="text-align:left;">
+                    </div>
+                  </div>
+                </div>
+              <div style="vertical-align: top; position:relative; display: inline-block; margin:0px 0px 15px 0px;width:100%; min-height:27px; background-color:#D0D0D0; " id="container_5a4d3624">
+                <div style="margin: 10px; display: block; " id="container_5a4d3624_padding" >
+                  <div style="text-align:left;">
+                    <span style="font-size:12pt; font-family:'Trebuchet MS', Helvetica, sans-serif; color:#000000; ">At RE-INVENT_COLLEGE we offer extra activities such as Karate,Boxing,and Taekwando,all in the favour of self defense.We also offer practicals like Home-Economics praticals where by a three course meal is being made by teachers,which are breakfast,lunch,and dinner.And we also celebreate valentines day on &quot;Febuary 14th&quot; where students bring gifts and exchange in a process of fun.We also celebrate cultural days,and so much,more.</span>
+                    </div>
+                  </div>
+                </div>
+              <div style="vertical-align: top; position:relative; display: inline-block; width:100%; min-height:27px; background-color:#959595; " id="container_6d14fdfd">
+                <div style="margin: 10px; display: block; " id="container_6d14fdfd_padding" >
+                  <div style="text-align:center;">
+                    <span style="font-size:15pt; font-family:'Trebuchet MS', Helvetica, sans-serif; color:#FFFFFF; font-weight:bold; ">INSPIRATION</span>
+                    </div>
+                  <div style="text-align:left;">
+                    </div>
+                  </div>
+                </div>
+              <div style="vertical-align: top; position:relative; display: inline-block; margin:0px 0px 15px 0px;width:100%; min-height:27px; background-color:#D0D0D0; " id="container_169edec1">
+                <div style="margin: 10px; display: block; " id="container_169edec1_padding" >
+                  <div style="text-align:justify;">
+                    <span style="font-size:12pt; font-family:'Trebuchet MS', Helvetica, sans-serif; color:#000000; "><br/>Our aim is simple,stay focused,study hard,chase your dream,and sharpen your talent.Our Motto:Soaring High.</span>
+                    </div>
+                  <div style="text-align:left;">
+                    </div>
+                  </div>
+                </div>
+              </div>
+            <div style="clear:both"></div>
+            </div>
+          </div>
+        <span style="font-size:10pt; font-family:Arial, Helvetica, sans-serif; color:#000000; "><br/></span>
+        <div style="vertical-align: top; position:relative; display: inline-block; width:100%; min-height:150px; background-color:#6A6A6A; " id="container_3a5fa1d1">
+          <div style="margin: 10px; display: block; " id="container_3a5fa1d1_padding" >
+            <div style="text-align:left;">
+              <div style="vertical-align: top; position:relative; display: inline-block; width:33%; min-height:150px; background:none; " id="container_19b17259">
+                <div style="margin: 10px; display: block; " id="container_19b17259_padding" >
+                  <div style="text-align:left;">
+<span style="font-size:12pt; font-family:Segoe, 'Segoe UI', 'Helvetica Neue', sans-serif; color:#FFFFFF; ">More information<br/><br/></span>                    <ul id="ul_548637e0" style="margin:0; font-size: 12pt; color:#FFFFFF; ">
+                      <li><span style="font-size:12pt; font-family:Segoe, 'Segoe UI', 'Helvetica Neue', sans-serif; color:#FFFFFF; ">Inter-house Sport</span>                        </li>
+                      <li><span style="font-size:12pt; font-family:Segoe, 'Segoe UI', 'Helvetica Neue', sans-serif; color:#FFFFFF; ">Cultural day</span>                        </li>
+                      <li><span style="font-size:12pt; font-family:Segoe, 'Segoe UI', 'Helvetica Neue', sans-serif; color:#FFFFFF; ">Excursion Day.</span>                        </li>
+                      </ul>
+                    </div>
+                  </div>
+                </div>
+              <div style="vertical-align: top; position:relative; display: inline-block; width:33%; min-height:150px; background:none; " id="container_446233ab">
+                <div style="margin: 10px; display: block; " id="container_446233ab_padding" >
+                  <div style="text-align:left;">
+<span style="font-size:12pt; font-family:Segoe, 'Segoe UI', 'Helvetica Neue', sans-serif; color:#FFFFFF; ">How to Find us<br/><br/></span>                    <ul id="ul_f22c766" style="margin:0; font-size: 12pt; color:#FFFFFF; ">
+                      <li><span style="font-size:12pt; font-family:Segoe, 'Segoe UI', 'Helvetica Neue', sans-serif; color:#FFFFFF; ">Contact Us - +234 81 033 550 19,80 304 808 29.</span>                        </li>
+                      <li><span style="font-size:12pt; font-family:Segoe, 'Segoe UI', 'Helvetica Neue', sans-serif; color:#FFFFFF; ">Location - No14,Ade Sholarin Street,Lanre Bus Stop Igando New Town,Igando.</span>                        </li>
+                      </ul>
+                    </div>
+                  </div>
+                </div>
+              <div style="vertical-align: top; position:relative; display: inline-block; width:33%; min-height:150px; background:none; " id="container_b8c83aa">
+                <div style="margin: 10px; display: block; " id="container_b8c83aa_padding" >
+                  <div style="text-align:left;">
+<span style="font-size:12pt; font-family:Segoe, 'Segoe UI', 'Helvetica Neue', sans-serif; color:#FFFFFF; ">Social Media<br/><br/></span>                    <ul id="ul_21536939" style="margin:0; font-size: 12pt; color:#FFFFFF; ">
+                      <li><span style="font-size:12pt; font-family:Segoe, 'Segoe UI', 'Helvetica Neue', sans-serif; color:#FFFFFF; ">Twitter</span>                        </li>
+                      <li><span style="font-size:12pt; font-family:Segoe, 'Segoe UI', 'Helvetica Neue', sans-serif; color:#FFFFFF; ">Facebook</span>                        </li>
+                      <li><span style="font-size:12pt; font-family:Segoe, 'Segoe UI', 'Helvetica Neue', sans-serif; color:#FFFFFF; ">Other</span>                        </li>
+                      </ul>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            <div style="clear:both"></div>
+            </div>
+          </div>
+        </div>
+      <div style="clear:both"></div>
+      </div>
+    </div>
+  </div>
+</body>
+</html>
